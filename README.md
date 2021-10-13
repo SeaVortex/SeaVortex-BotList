@@ -4,7 +4,7 @@ Merhaba arkadaşlar sizlerle BotList botu mu paylaşmak istedim eğer seversiniz
 
 Herhan gibi bir hata alırsanız bana ulaşabilirsiniz. Sea Vortex#1969
 
-# Yakın zamanda DateBaseli olarak dahada gelişdirmeyi planlıyorum.
+# Yakın zamanda DateBaseli olarak dahada geliştirmeyi planlıyorum.
 
 node_modules yüklerken herhan gibi bir hata falan alırsanız aşağı bırakdığım linkden indire bilirsiniz
 
