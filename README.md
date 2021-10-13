@@ -1,5 +1,5 @@
 # SeaVortex-BotList
-Merhaba arkadaşlar sizlerle BotList botu mu paylaşmak istedim eğer seversiniz ne mutlu bana.
+Merhaba arkadaşlar sizlerle BotList botu mu paylaşmak istedim eğer seversiniz ne mutlu bana
 
 Herhan gibi bir hata alırsanız bana ulaşabilirsiniz. Sea Vortex#1969
 
