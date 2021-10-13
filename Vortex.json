@@ -1,0 +1,34 @@
+{
+    "Panels": {
+        "Sahip": "728360891644641303",
+        "Token": "BOT TOKEN",
+        "Prefix": "PREFİX ÖRNEK: v!",
+
+        "Bio": "Vortex ❤️ BotList",
+        "Status": "idle",
+
+        "EmbedColor": "RED"
+    },
+    "Roles": {
+        "Staff": "KOMUTLARI KULLANICAK ROL ID'Sİ",
+        "Developer": "ONAYLANDIKDAN SONRA KİŞİYE VERİLEN ROL ID'Sİ"
+
+    },
+    "Channels": {
+        "Staff": "BOTLARI ONAYLAMAK İÇİN YETKİLİ KANAL ID'Sİ",
+        "BotEkle": "BOT EKLEME LOG",
+        "Onay": "BOT ONAY LOG",
+        "Red": "BOT RED LOG",
+
+        "BotEkleme": "BOTEKLE KOMUTU SADECE BU KANALDA KULLANMASI İÇİN KANAL ID'Sİ"
+    },
+    "Emojis": {
+        "Red": "❌",
+        "Onay": "✅",
+        "Idle": "🟠",
+        "Dnd": "🔴",
+        "Online": "🟢",
+        "Invisible": "⚫"
+
+    }
+}
